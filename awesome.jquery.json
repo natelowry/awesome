@@ -1,0 +1,26 @@
+{
+    "name": "awesome",
+    "title": "jQuery Awesome",
+    "description": "jQuery plugin for adding awesome words to your site.",
+    "keywords": [
+        "awesome",
+        "text"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Nate Lowry",
+        "url": "https://github.com/natelowry/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/natelowry/awesome/issues",
+    "homepage": "https://github.com/natelowry/awesome",
+    "docs": "https://github.com/natelowry/awesome",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
