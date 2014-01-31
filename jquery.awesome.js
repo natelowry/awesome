@@ -1,5 +1,5 @@
 (function( $ ) {
-		'use strict'
+		'use strict';
 		 var awesomes = ["neat", "cool", "wicked", "incredible", "excellent",
 		 "crack", "exceptional", "fantastic", "fabulous", "fine", "awesome",
 		 "marvelous", "super", "terrific", "tremendous", "wonderful",
